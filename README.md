@@ -1,2 +1,3 @@
-# portswigger-web-security-academy
-Write-ups and solutions for PortSwigger Web Security Academy labs, focused on SQL Injection and web vulnerabilities.
+# PortSwigger Web Security Academy Labs
+
+This repository contains write-ups and documented solutions for labs completed on the PortSwigger Web Security Academy platform.
